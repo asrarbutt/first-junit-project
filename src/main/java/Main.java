@@ -6,6 +6,6 @@ public class Main {
 
     public static int add(int i){
 
-        return i*i;
+        return i+i;
     }
 }
